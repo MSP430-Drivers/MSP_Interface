@@ -1,2 +1,2 @@
-# AG_Interface
+# MSP_Interface
 MSP430-Interface
